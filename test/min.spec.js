@@ -1,4 +1,4 @@
-const minn = require('./min');
+const min = require('./min');
 
 describe('Min', () => {
 
