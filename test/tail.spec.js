@@ -1,4 +1,4 @@
-const tails = require('./tail');
+const tail = require('./tail');
 
 describe('Tail', () => {
 
