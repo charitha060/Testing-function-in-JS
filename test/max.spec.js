@@ -1,4 +1,4 @@
-const maxx = require('./max');
+const max = require('./max');
 
 describe('Max', () => {
 
